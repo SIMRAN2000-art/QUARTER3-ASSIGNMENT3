@@ -3,12 +3,14 @@ Multi threading allow us to process multiple threads simultaneously.all threads 
 ## For example:
 In vlc  media player we use three threads simultaneously one for open VLC
 media player,second for play song and third for add new song.
+
 ![](Multithreading.png)
 
 #   What is Multi-tasking?
 It allow us to perform more than one task at a time.
 ## For example 
 In our daily life we often see that someone in the car,eating burger with taking his cell phone and driving at the same time, then we say he is multi tasking person.
+
 ![](Man-eating-and-talking-on-the-phone-while-in-the-driver-seat-of-a-car_b.jpg)
 
 # Difference between Multi-threading and Multi-tasking:

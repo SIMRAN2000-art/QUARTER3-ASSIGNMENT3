@@ -3,14 +3,13 @@ Multi threading allow us to process multiple threads simultaneously.all threads 
 ## For example:
 In vlc  media player we use three threads simultaneously one for open VLC
 media player,second for play song and third for add new song.
-![](file:///C:\Users\hp\Desktop\example.png)
+![](Multithreading.png)
 
 #   What is Multi-tasking?
 It allow us to perform more than one task at a time.
 ## For example 
 In our daily life we often see that someone in the car,eating burger with taking his cell phone and driving at the same time, then we say he is multi tasking person.
-
-![](file:///C:\Users\hp\Desktop\Man-eating-and-talking-on-the-phone-while-in-the-driver-seat-of-a-car_b.jpg)
+![](Man-eating-and-talking-on-the-phone-while-in-the-driver-seat-of-a-car_b.jpg)
 
 # Difference between Multi-threading and Multi-tasking:
 
@@ -22,7 +21,13 @@ In our daily life we often see that someone in the car,eating burger with taking
 
 **4)** In multi tasking allocating different memory and resources become costly, whereas in multi threading they share the same resources which they belong it is cost effective solution.
 
-**5)** 
+**5)**  Multi-threading shares common memory if some thing in wrong on one thread then it effect on others.
+
+**6)** Multi threading present difficulties in resolving error and synchronization issues occur in it
+
+## Conclusion
+ We can say that Multitasking is similar to Multi-programming whereas, Multi-threading is just thread-based multitasking. Multithreading is economical than multitasking, and we create threads much easily then create different process.
+
 
 
 

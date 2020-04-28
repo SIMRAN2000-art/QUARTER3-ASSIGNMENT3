@@ -20,6 +20,11 @@ In our daily life we often see that someone in the car,eating burger with taking
 
 **3)**  In multi tasking different process/tasks do not share same memory,but in multi threading they do.
 
+**4)** In multi tasking allocating different memory and resources become costly, whereas in multi threading they share the same resources which they belong it is cost effective solution.
+
+**5)** 
+
+
 
 
 
